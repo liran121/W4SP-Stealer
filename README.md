@@ -19,7 +19,7 @@ They sell this for 30$💀
 
 > Put ur webhook at hook = ""
 > and run main.py
-> Obfuscation > https://github.com/billythegoat356/Hyperion
+> Obfuscation: https://github.com/billythegoat356/Hyperion
 
 <a id="features"></a>
 
