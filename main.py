@@ -16,7 +16,7 @@ import re
 import subprocess
 
 #  THIS IS 1.1.4 VERSION!
-#   
+#  acee#0001 on cord
 #
 
 
