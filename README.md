@@ -63,3 +63,7 @@ They sell this for 30$💀
 ### 〢 Note
 
 I am not responsible for any damages this software may cause. This was made for personal education.
+People who skidded/put a rat in it:
+Ayhuuu / Ayhu#1337
+Caleb0205
+
